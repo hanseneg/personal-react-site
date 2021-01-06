@@ -6,7 +6,7 @@ function Header() {
         <header>
             <h1>Find That Car!</h1>
             <Link to='/'>Home</Link>
-            <Link to='/RandomCar'>Random Car</Link>
+            <Link to='/randomCar'>Random Car</Link>
             <Link to='/about'>About</Link>
         </header>
     )

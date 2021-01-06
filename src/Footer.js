@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
     return(
-        <Footer>Copyright © 2021 Find that Car! Inc</Footer>
+        <footer>Copyright © 2021 Find that Car! Inc</footer>
     )
 }
 
