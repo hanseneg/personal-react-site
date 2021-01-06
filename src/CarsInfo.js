@@ -1,8 +1,14 @@
 import React from 'react'
+import useParams from 'react-router-dom'
 
 function CarsInfo() {
     return(
-        <h1>help</h1>
+        <div>
+            <h1>Year, Make, and Model</h1>
+            {/* map over or .find info from the api */}
+            <p>Description</p>
+            <img>Car Image</img>
+        </div>
     )
 }
 

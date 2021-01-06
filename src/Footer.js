@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
     return(
-        <h1>help</h1>
+        <Footer>Copyright © 2021 Find that Car! Inc</Footer>
     )
 }
 
